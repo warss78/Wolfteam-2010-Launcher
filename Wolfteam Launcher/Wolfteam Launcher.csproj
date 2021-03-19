@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{32F1D7B5-C2D8-4F8D-AA4B-62B90929B0A0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Wolfteam_Launcher</RootNamespace>
+    <AssemblyName>Wolfteam Launcher</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Patch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Patch.Designer.cs">
+      <DependentUpon>Patch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Patch.resx">
+      <DependentUpon>Patch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="bin\Debug\Img\CheckFile.dat" />
+    <None Include="bin\Debug\Img\Fecth.dat" />
+    <None Include="bin\Debug\Img\game.dat" />
+    <None Include="bin\Debug\Img\Launcher.ini" />
+    <None Include="bin\Debug\Img\LauncherEnc.xfs" />
+    <None Include="bin\Debug\Img\Login.dat" />
+    <None Include="bin\Debug\Img\NyxLauncher_CheckFile.dat" />
+    <None Include="bin\Debug\Img\selectgame_start.ps" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_rakionimg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_rakionimgc.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_regist.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_start.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_startUS.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_versioncheck.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_wolfteam.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_wolfteamimg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_wolfteamm.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\settings-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\settings-over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\sifremi_unuttum.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\sifremi_unuttum_mouse_hover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\softnyx.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\softnyx2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\start.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\startbutton-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\startbutton-over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\startbutton-update.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\StartGame.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\support-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\support-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\sys.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\sys_click.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\sys0.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\top-left.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\top-right.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\torrent-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\torrent-over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\twitter-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\twitter-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\ucretsiz_uye_ol.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\ucretsiz_uye_ol_mouse_hover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\username.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\youtube-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\youtube-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\%3bDownloader.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\1bg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\1selectgame_rakionimgc.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\12bg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\12bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\close_hover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\123sys0.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\1234sys0.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\ademm.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\background-downloading.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\background-image.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\bg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\bg2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_-.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_cash.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_-click.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_facebook.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_free.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_home.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_home-.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_keyboard.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_option.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_-over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_start_click.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_start_normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_start_over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_x.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_xclick.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_xnormal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\button_xover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\center-webpage.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\chargejp-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\chargejp-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\close-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\close-over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\Downloader.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\down-logo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\facebook-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\facebook-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\FaceConnect.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\forum-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\forum-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\front_img.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\front_imgUS.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\google-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\google-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\guncelleniyor.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\homepage-mouseover.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\homepage-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\id.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\IDPWbox.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_cancel.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_frame.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_lostpassword.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_ok.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_progressbase.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_register.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_text_id_password.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\login_versioncheck.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\Loginwindow.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\minimize.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\minimize1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\minimize-normal.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\minimize-over.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\recover-file-back.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\s1ys0.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_cance.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_cancel.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_cancelUS.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_comingsoon.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_file.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_frame.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_frame_US.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_fulldown - Kopya.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_fulldown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_gunboundimg.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_option.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_patchdown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\selectgame_progressbase.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Img\closehover.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
