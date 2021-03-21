@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Wolfteam_Launcher
 {
-    public partial class Patch : Form
+    public partial class Rakion : Form
     {
-        public Patch()
+        public Rakion()
         {
             InitializeComponent();
         }

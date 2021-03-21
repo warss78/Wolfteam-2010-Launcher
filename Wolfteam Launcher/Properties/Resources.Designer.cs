@@ -83,6 +83,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap _1234sys02 {
+            get {
+                object obj = ResourceManager.GetObject("_1234sys02", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap _123sys0 {
             get {
                 object obj = ResourceManager.GetObject("_123sys0", resourceCulture);
@@ -96,6 +106,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap _123sys01 {
             get {
                 object obj = ResourceManager.GetObject("_123sys01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap _123sys02 {
+            get {
+                object obj = ResourceManager.GetObject("_123sys02", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -143,6 +163,26 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap _12bg4 {
+            get {
+                object obj = ResourceManager.GetObject("_12bg4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap _12bg5 {
+            get {
+                object obj = ResourceManager.GetObject("_12bg5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap _1bg {
             get {
                 object obj = ResourceManager.GetObject("_1bg", resourceCulture);
@@ -163,9 +203,9 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap _1selectgame_rakionimgc {
+        internal static System.Drawing.Bitmap _1bg2 {
             get {
-                object obj = ResourceManager.GetObject("_1selectgame_rakionimgc", resourceCulture);
+                object obj = ResourceManager.GetObject("_1bg2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,19 +213,9 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
-        internal static System.Drawing.Bitmap _1selectgame_rakionimgc1 {
+        internal static System.Drawing.Bitmap _Downloader1 {
             get {
-                object obj = ResourceManager.GetObject("_1selectgame_rakionimgc1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
-        /// </summary>
-        internal static System.Drawing.Bitmap _Downloader {
-            get {
-                object obj = ResourceManager.GetObject("_Downloader", resourceCulture);
+                object obj = ResourceManager.GetObject("_Downloader1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,6 +243,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap ademm2 {
+            get {
+                object obj = ResourceManager.GetObject("ademm2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap background_downloading {
             get {
                 object obj = ResourceManager.GetObject("background_downloading", resourceCulture);
@@ -233,6 +273,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap background_downloading2 {
+            get {
+                object obj = ResourceManager.GetObject("background_downloading2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap background_image {
             get {
                 object obj = ResourceManager.GetObject("background_image", resourceCulture);
@@ -246,6 +296,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap background_image1 {
             get {
                 object obj = ResourceManager.GetObject("background_image1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap background_image2 {
+            get {
+                object obj = ResourceManager.GetObject("background_image2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,6 +353,26 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap bg22 {
+            get {
+                object obj = ResourceManager.GetObject("bg22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap bg3 {
+            get {
+                object obj = ResourceManager.GetObject("bg3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button__ {
             get {
                 object obj = ResourceManager.GetObject("button__", resourceCulture);
@@ -306,6 +386,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button__1 {
             get {
                 object obj = ResourceManager.GetObject("button__1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button__2 {
+            get {
+                object obj = ResourceManager.GetObject("button__2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,6 +423,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button__click2 {
+            get {
+                object obj = ResourceManager.GetObject("button__click2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button__normal {
             get {
                 object obj = ResourceManager.GetObject("button__normal", resourceCulture);
@@ -346,6 +446,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button__normal1 {
             get {
                 object obj = ResourceManager.GetObject("button__normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button__normal2 {
+            get {
+                object obj = ResourceManager.GetObject("button__normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -373,6 +483,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button__over2 {
+            get {
+                object obj = ResourceManager.GetObject("button__over2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_cash {
             get {
                 object obj = ResourceManager.GetObject("button_cash", resourceCulture);
@@ -386,6 +506,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_cash1 {
             get {
                 object obj = ResourceManager.GetObject("button_cash1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_cash2 {
+            get {
+                object obj = ResourceManager.GetObject("button_cash2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -413,6 +543,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_facebook2 {
+            get {
+                object obj = ResourceManager.GetObject("button_facebook2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_free {
             get {
                 object obj = ResourceManager.GetObject("button_free", resourceCulture);
@@ -426,6 +566,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_free1 {
             get {
                 object obj = ResourceManager.GetObject("button_free1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_free2 {
+            get {
+                object obj = ResourceManager.GetObject("button_free2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -463,9 +613,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_home_2 {
+            get {
+                object obj = ResourceManager.GetObject("button_home_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_home1 {
             get {
                 object obj = ResourceManager.GetObject("button_home1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_home2 {
+            get {
+                object obj = ResourceManager.GetObject("button_home2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -493,6 +663,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_keyboard2 {
+            get {
+                object obj = ResourceManager.GetObject("button_keyboard2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_normal {
             get {
                 object obj = ResourceManager.GetObject("button_normal", resourceCulture);
@@ -506,6 +686,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_normal1 {
             get {
                 object obj = ResourceManager.GetObject("button_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("button_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -533,6 +723,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_option2 {
+            get {
+                object obj = ResourceManager.GetObject("button_option2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_start_click {
             get {
                 object obj = ResourceManager.GetObject("button_start_click", resourceCulture);
@@ -546,6 +746,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_start_click1 {
             get {
                 object obj = ResourceManager.GetObject("button_start_click1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_start_click2 {
+            get {
+                object obj = ResourceManager.GetObject("button_start_click2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -573,6 +783,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_start_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("button_start_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_start_over {
             get {
                 object obj = ResourceManager.GetObject("button_start_over", resourceCulture);
@@ -586,6 +806,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_start_over1 {
             get {
                 object obj = ResourceManager.GetObject("button_start_over1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_start_over2 {
+            get {
+                object obj = ResourceManager.GetObject("button_start_over2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -613,6 +843,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_x2 {
+            get {
+                object obj = ResourceManager.GetObject("button_x2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_xclick {
             get {
                 object obj = ResourceManager.GetObject("button_xclick", resourceCulture);
@@ -626,6 +866,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_xclick1 {
             get {
                 object obj = ResourceManager.GetObject("button_xclick1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_xclick2 {
+            get {
+                object obj = ResourceManager.GetObject("button_xclick2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -653,6 +903,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap button_xnormal2 {
+            get {
+                object obj = ResourceManager.GetObject("button_xnormal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap button_xover {
             get {
                 object obj = ResourceManager.GetObject("button_xover", resourceCulture);
@@ -666,6 +926,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap button_xover1 {
             get {
                 object obj = ResourceManager.GetObject("button_xover1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap button_xover2 {
+            get {
+                object obj = ResourceManager.GetObject("button_xover2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -693,6 +963,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap center_webpage2 {
+            get {
+                object obj = ResourceManager.GetObject("center_webpage2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap chargejp_mouseover {
             get {
                 object obj = ResourceManager.GetObject("chargejp_mouseover", resourceCulture);
@@ -706,6 +986,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap chargejp_mouseover1 {
             get {
                 object obj = ResourceManager.GetObject("chargejp_mouseover1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap chargejp_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("chargejp_mouseover2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -731,6 +1021,16 @@ namespace Wolfteam_Launcher.Properties {
         }
         
         /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap chargejp_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("chargejp_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
         internal static byte[] CheckFile {
@@ -751,11 +1051,31 @@ namespace Wolfteam_Launcher.Properties {
         }
         
         /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] CheckFile2 {
+            get {
+                object obj = ResourceManager.GetObject("CheckFile2", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
         internal static System.Drawing.Bitmap close_hover {
             get {
                 object obj = ResourceManager.GetObject("close_hover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap close_hover1 {
+            get {
+                object obj = ResourceManager.GetObject("close_hover1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -783,6 +1103,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap close_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("close_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap close_over {
             get {
                 object obj = ResourceManager.GetObject("close_over", resourceCulture);
@@ -803,9 +1133,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap close_over2 {
+            get {
+                object obj = ResourceManager.GetObject("close_over2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap closehover {
             get {
                 object obj = ResourceManager.GetObject("closehover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap closehover1 {
+            get {
+                object obj = ResourceManager.GetObject("closehover1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -833,6 +1183,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap down_logo2 {
+            get {
+                object obj = ResourceManager.GetObject("down_logo2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap Downloader {
             get {
                 object obj = ResourceManager.GetObject("Downloader", resourceCulture);
@@ -846,6 +1206,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap Downloader1 {
             get {
                 object obj = ResourceManager.GetObject("Downloader1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap Downloader2 {
+            get {
+                object obj = ResourceManager.GetObject("Downloader2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -873,6 +1243,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap facebook_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("facebook_mouseover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap facebook_normal {
             get {
                 object obj = ResourceManager.GetObject("facebook_normal", resourceCulture);
@@ -886,6 +1266,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap facebook_normal1 {
             get {
                 object obj = ResourceManager.GetObject("facebook_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap facebook_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("facebook_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -911,6 +1301,16 @@ namespace Wolfteam_Launcher.Properties {
         }
         
         /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap FaceConnect2 {
+            get {
+                object obj = ResourceManager.GetObject("FaceConnect2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
         internal static byte[] Fecth {
@@ -926,6 +1326,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static byte[] Fecth1 {
             get {
                 object obj = ResourceManager.GetObject("Fecth1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] Fecth2 {
+            get {
+                object obj = ResourceManager.GetObject("Fecth2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -953,6 +1363,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap forum_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("forum_mouseover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap forum_normal {
             get {
                 object obj = ResourceManager.GetObject("forum_normal", resourceCulture);
@@ -966,6 +1386,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap forum_normal1 {
             get {
                 object obj = ResourceManager.GetObject("forum_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap forum_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("forum_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -993,6 +1423,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap front_img2 {
+            get {
+                object obj = ResourceManager.GetObject("front_img2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap front_imgUS {
             get {
                 object obj = ResourceManager.GetObject("front_imgUS", resourceCulture);
@@ -1006,6 +1446,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap front_imgUS1 {
             get {
                 object obj = ResourceManager.GetObject("front_imgUS1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap front_imgUS2 {
+            get {
+                object obj = ResourceManager.GetObject("front_imgUS2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1026,6 +1476,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static byte[] game1 {
             get {
                 object obj = ResourceManager.GetObject("game1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] game2 {
+            get {
+                object obj = ResourceManager.GetObject("game2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1053,6 +1513,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap google_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("google_mouseover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap google_normal {
             get {
                 object obj = ResourceManager.GetObject("google_normal", resourceCulture);
@@ -1066,6 +1536,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap google_normal1 {
             get {
                 object obj = ResourceManager.GetObject("google_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap google_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("google_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1093,6 +1573,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap guncelleniyor2 {
+            get {
+                object obj = ResourceManager.GetObject("guncelleniyor2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap homepage_mouseover {
             get {
                 object obj = ResourceManager.GetObject("homepage_mouseover", resourceCulture);
@@ -1106,6 +1596,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap homepage_mouseover1 {
             get {
                 object obj = ResourceManager.GetObject("homepage_mouseover1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap homepage_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("homepage_mouseover2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1133,6 +1633,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap homepage_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("homepage_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap id {
             get {
                 object obj = ResourceManager.GetObject("id", resourceCulture);
@@ -1153,6 +1663,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap id2 {
+            get {
+                object obj = ResourceManager.GetObject("id2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap IDPWbox {
             get {
                 object obj = ResourceManager.GetObject("IDPWbox", resourceCulture);
@@ -1166,6 +1686,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap IDPWbox1 {
             get {
                 object obj = ResourceManager.GetObject("IDPWbox1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap IDPWbox2 {
+            get {
+                object obj = ResourceManager.GetObject("IDPWbox2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1225,6 +1755,33 @@ namespace Wolfteam_Launcher.Properties {
         }
         
         /// <summary>
+        ///   [Launcher]
+        ///Url_ForgotPwd=http://wolfteam.eterniagames.com
+        ///Url_Signup=http://wolfteam.eterniagames.com
+        ///Url_FindId=http://wolfteam.eterniagames.com
+        ///Url_Softnyx=http://wolfteam.eterniagames.com/
+        ///Url_Ad=wolfteam.eterniagames.com/ad/
+        ///AppId=1000
+        ///Version=21
+        ///CookieDomain=http://wolfteam.eterniagames.com/
+        ///CookieName=Softnyx_Eng
+        ///LastGame=Wolfteam
+        ///dna_qos=0
+        ///AutoGamePatch=Yes
+        ///SavedID=
+        ///
+        ///[Wolfteam]
+        ///AppId=2000
+        ///Url_Notice=http://wolfteam.eterniagames.com/launcher.php
+        ///Url_ManualPatch=http://wolfteam.eterni [dizenin kalan bölümü kesildi]&quot;; benzeri yerelleştirilmiş bir dize arar.
+        /// </summary>
+        internal static string Launcher2 {
+            get {
+                return ResourceManager.GetString("Launcher2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
         internal static byte[] LauncherEnc {
@@ -1240,6 +1797,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static byte[] LauncherEnc1 {
             get {
                 object obj = ResourceManager.GetObject("LauncherEnc1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] LauncherEnc2 {
+            get {
+                object obj = ResourceManager.GetObject("LauncherEnc2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1277,6 +1844,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap login_cancel2 {
+            get {
+                object obj = ResourceManager.GetObject("login_cancel2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap login_frame {
             get {
                 object obj = ResourceManager.GetObject("login_frame", resourceCulture);
@@ -1290,6 +1867,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap login_frame1 {
             get {
                 object obj = ResourceManager.GetObject("login_frame1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_frame2 {
+            get {
+                object obj = ResourceManager.GetObject("login_frame2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1317,6 +1904,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap login_lostpassword2 {
+            get {
+                object obj = ResourceManager.GetObject("login_lostpassword2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap login_ok {
             get {
                 object obj = ResourceManager.GetObject("login_ok", resourceCulture);
@@ -1330,6 +1927,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap login_ok1 {
             get {
                 object obj = ResourceManager.GetObject("login_ok1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_ok2 {
+            get {
+                object obj = ResourceManager.GetObject("login_ok2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1357,6 +1964,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap login_progressbase2 {
+            get {
+                object obj = ResourceManager.GetObject("login_progressbase2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap login_register {
             get {
                 object obj = ResourceManager.GetObject("login_register", resourceCulture);
@@ -1370,6 +1987,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap login_register1 {
             get {
                 object obj = ResourceManager.GetObject("login_register1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_register2 {
+            get {
+                object obj = ResourceManager.GetObject("login_register2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1397,6 +2024,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap login_text_id_password2 {
+            get {
+                object obj = ResourceManager.GetObject("login_text_id_password2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap login_versioncheck {
             get {
                 object obj = ResourceManager.GetObject("login_versioncheck", resourceCulture);
@@ -1415,11 +2052,31 @@ namespace Wolfteam_Launcher.Properties {
         }
         
         /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap login_versioncheck2 {
+            get {
+                object obj = ResourceManager.GetObject("login_versioncheck2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
         internal static byte[] Login1 {
             get {
                 object obj = ResourceManager.GetObject("Login1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] Login2 {
+            get {
+                object obj = ResourceManager.GetObject("Login2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1440,6 +2097,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap Loginwindow1 {
             get {
                 object obj = ResourceManager.GetObject("Loginwindow1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap Loginwindow2 {
+            get {
+                object obj = ResourceManager.GetObject("Loginwindow2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1477,6 +2144,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap minimize_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("minimize_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap minimize_over {
             get {
                 object obj = ResourceManager.GetObject("minimize_over", resourceCulture);
@@ -1490,6 +2167,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap minimize_over1 {
             get {
                 object obj = ResourceManager.GetObject("minimize_over1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap minimize_over2 {
+            get {
+                object obj = ResourceManager.GetObject("minimize_over2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1517,9 +2204,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap minimize12 {
+            get {
+                object obj = ResourceManager.GetObject("minimize12", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap minimize2 {
             get {
                 object obj = ResourceManager.GetObject("minimize2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap minimize3 {
+            get {
+                object obj = ResourceManager.GetObject("minimize3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1540,6 +2247,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static byte[] NyxLauncher_CheckFile1 {
             get {
                 object obj = ResourceManager.GetObject("NyxLauncher_CheckFile1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] NyxLauncher_CheckFile2 {
+            get {
+                object obj = ResourceManager.GetObject("NyxLauncher_CheckFile2", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -1567,6 +2284,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap recover_file_back2 {
+            get {
+                object obj = ResourceManager.GetObject("recover_file_back2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap s1ys0 {
             get {
                 object obj = ResourceManager.GetObject("s1ys0", resourceCulture);
@@ -1580,6 +2307,36 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap s1ys01 {
             get {
                 object obj = ResourceManager.GetObject("s1ys01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap s1ys02 {
+            get {
+                object obj = ResourceManager.GetObject("s1ys02", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selecgame_option_click {
+            get {
+                object obj = ResourceManager.GetObject("selecgame_option_click", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selecgame_option_hover {
+            get {
+                object obj = ResourceManager.GetObject("selecgame_option_hover", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1607,6 +2364,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_cance2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_cance2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_cancel {
             get {
                 object obj = ResourceManager.GetObject("selectgame_cancel", resourceCulture);
@@ -1620,6 +2387,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_cancel1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_cancel1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_cancel2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_cancel2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1647,6 +2424,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_cancelUS2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_cancelUS2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_comingsoon {
             get {
                 object obj = ResourceManager.GetObject("selectgame_comingsoon", resourceCulture);
@@ -1667,6 +2454,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_comingsoon2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_comingsoon2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_file {
             get {
                 object obj = ResourceManager.GetObject("selectgame_file", resourceCulture);
@@ -1680,6 +2477,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_file1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_file1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_file2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_file2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1717,9 +2524,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_frame_US2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_frame_US2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_frame1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_frame1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_frame2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_frame2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1757,9 +2584,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_fulldown___Kopya2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_fulldown___Kopya2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_fulldown1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_fulldown1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_fulldown2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_fulldown2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1787,6 +2634,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_gunboundimg2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_gunboundimg2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_option {
             get {
                 object obj = ResourceManager.GetObject("selectgame_option", resourceCulture);
@@ -1800,6 +2657,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_option1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_option1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_option2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_option2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1827,6 +2694,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_patchdown2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_patchdown2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_progressbase {
             get {
                 object obj = ResourceManager.GetObject("selectgame_progressbase", resourceCulture);
@@ -1840,6 +2717,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_progressbase1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_progressbase1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_progressbase2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_progressbase2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1867,6 +2754,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_rakionimg2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_rakionimg2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_rakionimgc {
             get {
                 object obj = ResourceManager.GetObject("selectgame_rakionimgc", resourceCulture);
@@ -1887,6 +2784,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_rakionimgc2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_rakionimgc2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_regist {
             get {
                 object obj = ResourceManager.GetObject("selectgame_regist", resourceCulture);
@@ -1900,6 +2807,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_regist1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_regist1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_regist2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_regist2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1947,6 +2864,26 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_start4 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_start4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static byte[] selectgame_start5 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_start5", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_startUS {
             get {
                 object obj = ResourceManager.GetObject("selectgame_startUS", resourceCulture);
@@ -1960,6 +2897,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_startUS1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_startUS1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_startUS2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_startUS2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1987,6 +2934,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_versioncheck2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_versioncheck2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_wolfteam {
             get {
                 object obj = ResourceManager.GetObject("selectgame_wolfteam", resourceCulture);
@@ -2000,6 +2957,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_wolfteam1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_wolfteam1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_wolfteam2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_wolfteam2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2027,6 +2994,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap selectgame_wolfteamimg2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_wolfteamimg2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap selectgame_wolfteamm {
             get {
                 object obj = ResourceManager.GetObject("selectgame_wolfteamm", resourceCulture);
@@ -2040,6 +3017,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap selectgame_wolfteamm1 {
             get {
                 object obj = ResourceManager.GetObject("selectgame_wolfteamm1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap selectgame_wolfteamm2 {
+            get {
+                object obj = ResourceManager.GetObject("selectgame_wolfteamm2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2067,6 +3054,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap settings_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("settings_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap settings_over {
             get {
                 object obj = ResourceManager.GetObject("settings_over", resourceCulture);
@@ -2080,6 +3077,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap settings_over1 {
             get {
                 object obj = ResourceManager.GetObject("settings_over1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap settings_over2 {
+            get {
+                object obj = ResourceManager.GetObject("settings_over2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2117,9 +3124,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap sifremi_unuttum_mouse_hover2 {
+            get {
+                object obj = ResourceManager.GetObject("sifremi_unuttum_mouse_hover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap sifremi_unuttum1 {
             get {
                 object obj = ResourceManager.GetObject("sifremi_unuttum1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap sifremi_unuttum2 {
+            get {
+                object obj = ResourceManager.GetObject("sifremi_unuttum2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2167,6 +3194,46 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap softnyx22 {
+            get {
+                object obj = ResourceManager.GetObject("softnyx22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap softnyx3 {
+            get {
+                object obj = ResourceManager.GetObject("softnyx3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap sselectgame_rakionimgc {
+            get {
+                object obj = ResourceManager.GetObject("sselectgame_rakionimgc", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap sselectgame_rakionimgc1 {
+            get {
+                object obj = ResourceManager.GetObject("sselectgame_rakionimgc1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap start {
             get {
                 object obj = ResourceManager.GetObject("start", resourceCulture);
@@ -2177,9 +3244,49 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap start_click {
+            get {
+                object obj = ResourceManager.GetObject("start_click", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap start_hover {
+            get {
+                object obj = ResourceManager.GetObject("start_hover", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap start_normal {
+            get {
+                object obj = ResourceManager.GetObject("start_normal", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap start1 {
             get {
                 object obj = ResourceManager.GetObject("start1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap start2 {
+            get {
+                object obj = ResourceManager.GetObject("start2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2207,6 +3314,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap startbutton_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("startbutton_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap startbutton_over {
             get {
                 object obj = ResourceManager.GetObject("startbutton_over", resourceCulture);
@@ -2220,6 +3337,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap startbutton_over1 {
             get {
                 object obj = ResourceManager.GetObject("startbutton_over1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap startbutton_over2 {
+            get {
+                object obj = ResourceManager.GetObject("startbutton_over2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2247,6 +3374,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap startbutton_update2 {
+            get {
+                object obj = ResourceManager.GetObject("startbutton_update2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap StartGame {
             get {
                 object obj = ResourceManager.GetObject("StartGame", resourceCulture);
@@ -2260,6 +3397,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap StartGame1 {
             get {
                 object obj = ResourceManager.GetObject("StartGame1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap StartGame2 {
+            get {
+                object obj = ResourceManager.GetObject("StartGame2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2287,6 +3434,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap support_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("support_mouseover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap support_normal {
             get {
                 object obj = ResourceManager.GetObject("support_normal", resourceCulture);
@@ -2300,6 +3457,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap support_normal1 {
             get {
                 object obj = ResourceManager.GetObject("support_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap support_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("support_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2337,6 +3504,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap sys_click2 {
+            get {
+                object obj = ResourceManager.GetObject("sys_click2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap sys0 {
             get {
                 object obj = ResourceManager.GetObject("sys0", resourceCulture);
@@ -2357,9 +3534,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap sys02 {
+            get {
+                object obj = ResourceManager.GetObject("sys02", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap sys1 {
             get {
                 object obj = ResourceManager.GetObject("sys1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap sys2 {
+            get {
+                object obj = ResourceManager.GetObject("sys2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2387,6 +3584,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap top_left2 {
+            get {
+                object obj = ResourceManager.GetObject("top_left2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap top_right {
             get {
                 object obj = ResourceManager.GetObject("top_right", resourceCulture);
@@ -2400,6 +3607,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap top_right1 {
             get {
                 object obj = ResourceManager.GetObject("top_right1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap top_right2 {
+            get {
+                object obj = ResourceManager.GetObject("top_right2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2427,6 +3644,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap torrent_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("torrent_normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap torrent_over {
             get {
                 object obj = ResourceManager.GetObject("torrent_over", resourceCulture);
@@ -2440,6 +3667,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap torrent_over1 {
             get {
                 object obj = ResourceManager.GetObject("torrent_over1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap torrent_over2 {
+            get {
+                object obj = ResourceManager.GetObject("torrent_over2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2467,6 +3704,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap twitter_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("twitter_mouseover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap twitter_normal {
             get {
                 object obj = ResourceManager.GetObject("twitter_normal", resourceCulture);
@@ -2480,6 +3727,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap twitter_normal1 {
             get {
                 object obj = ResourceManager.GetObject("twitter_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap twitter_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("twitter_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2517,9 +3774,29 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap ucretsiz_uye_ol_mouse_hover2 {
+            get {
+                object obj = ResourceManager.GetObject("ucretsiz_uye_ol_mouse_hover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap ucretsiz_uye_ol1 {
             get {
                 object obj = ResourceManager.GetObject("ucretsiz_uye_ol1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap ucretsiz_uye_ol2 {
+            get {
+                object obj = ResourceManager.GetObject("ucretsiz_uye_ol2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2547,6 +3824,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap username2 {
+            get {
+                object obj = ResourceManager.GetObject("username2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap youtube_mouseover {
             get {
                 object obj = ResourceManager.GetObject("youtube_mouseover", resourceCulture);
@@ -2567,6 +3854,16 @@ namespace Wolfteam_Launcher.Properties {
         /// <summary>
         ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
         /// </summary>
+        internal static System.Drawing.Bitmap youtube_mouseover2 {
+            get {
+                object obj = ResourceManager.GetObject("youtube_mouseover2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
         internal static System.Drawing.Bitmap youtube_normal {
             get {
                 object obj = ResourceManager.GetObject("youtube_normal", resourceCulture);
@@ -2580,6 +3877,16 @@ namespace Wolfteam_Launcher.Properties {
         internal static System.Drawing.Bitmap youtube_normal1 {
             get {
                 object obj = ResourceManager.GetObject("youtube_normal1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+        /// </summary>
+        internal static System.Drawing.Bitmap youtube_normal2 {
+            get {
+                object obj = ResourceManager.GetObject("youtube_normal2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

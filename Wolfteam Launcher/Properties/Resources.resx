@@ -124,16 +124,25 @@
   <data name="ademm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\ademm.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ademm2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\ademm.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="background_downloading" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\background-downloading.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="background_downloading1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\background-downloading.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="background_downloading2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\background-downloading.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="background_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\background-image.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="background_image1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\background-image.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="background_image2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\background-image.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -148,10 +157,19 @@
   <data name="bg21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\bg2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="bg22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\bg2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bg3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\bg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_cash" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_cash.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_cash1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_cash.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_cash2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_cash.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_facebook" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -160,10 +178,16 @@
   <data name="button_facebook1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_facebook.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_facebook2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_facebook.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_free" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_free.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_free1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_free.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_free2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_free.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_home" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -172,10 +196,16 @@
   <data name="button_home1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_home.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_home2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_home.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_home_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_home-.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_home_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_home-.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_home_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_home-.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_keyboard" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -184,10 +214,16 @@
   <data name="button_keyboard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_keyboard.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_keyboard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_keyboard.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -196,10 +232,16 @@
   <data name="button_option1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_option.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_option2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_option.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_start_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_start_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_start_click1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_start_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_start_click2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_start_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_start_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -208,10 +250,16 @@
   <data name="button_start_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_start_normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_start_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_start_normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_start_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_start_over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_start_over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_start_over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_start_over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_start_over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_x" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -220,10 +268,16 @@
   <data name="button_x1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_x.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_x2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_x.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_xclick" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_xclick.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_xclick1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_xclick.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_xclick2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_xclick.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_xnormal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -232,10 +286,16 @@
   <data name="button_xnormal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_xnormal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button_xnormal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_xnormal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button_xover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_xover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button_xover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_xover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button_xover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_xover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button__" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -244,10 +304,16 @@
   <data name="button__1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_-.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button__2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_-.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button__click" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_-click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button__click1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_-click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button__click2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_-click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button__normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -256,10 +322,16 @@
   <data name="button__normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="button__normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="button__over" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="button__over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\button_-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="button__over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\button_-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="center_webpage" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -268,10 +340,16 @@
   <data name="center_webpage1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\center-webpage.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="center_webpage2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\center-webpage.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="chargejp_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\chargejp-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="chargejp_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\chargejp-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chargejp_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\chargejp-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="chargejp_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -280,16 +358,28 @@
   <data name="chargejp_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\chargejp-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="chargejp_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\chargejp-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="CheckFile" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\CheckFile.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="CheckFile1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\CheckFile.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="CheckFile2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\CheckFile.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="closehover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\closehover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="closehover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\closehover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="close_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\close_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_hover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\close_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="close_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -298,10 +388,16 @@
   <data name="close_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\close-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="close_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\close-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="close_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\close-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="close_over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\close-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="close_over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\close-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Downloader" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -310,10 +406,16 @@
   <data name="Downloader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Downloader.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Downloader2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\Downloader.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="down_logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\down-logo.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="down_logo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\down-logo.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="down_logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\down-logo.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="facebook_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -322,10 +424,16 @@
   <data name="facebook_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\facebook-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="facebook_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\facebook-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="facebook_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\facebook-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="facebook_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\facebook-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="facebook_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\facebook-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="FaceConnect" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -334,10 +442,16 @@
   <data name="FaceConnect1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\FaceConnect.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="FaceConnect2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\FaceConnect.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Fecth" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Fecth.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Fecth1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\Fecth.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Fecth2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Fecth.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="forum_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -346,10 +460,16 @@
   <data name="forum_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\forum-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="forum_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\forum-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="forum_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\forum-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="forum_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\forum-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="forum_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\forum-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="front_img" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -358,10 +478,16 @@
   <data name="front_img1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\front_img.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="front_img2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\front_img.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="front_imgUS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\front_imgUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="front_imgUS1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\front_imgUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="front_imgUS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\front_imgUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="game" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -370,10 +496,16 @@
   <data name="game1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\game.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="game2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\game.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="google_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\google-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="google_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\google-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="google_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\google-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="google_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -382,10 +514,16 @@
   <data name="google_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\google-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="google_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\google-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="guncelleniyor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\guncelleniyor.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="guncelleniyor1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\guncelleniyor.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guncelleniyor2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\guncelleniyor.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="homepage_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -394,10 +532,16 @@
   <data name="homepage_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\homepage-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="homepage_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\homepage-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="homepage_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\homepage-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="homepage_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\homepage-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="homepage_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\homepage-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="id" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -406,10 +550,16 @@
   <data name="id1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\id.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="id2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\id.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="IDPWbox" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\IDPWbox.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="IDPWbox1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\IDPWbox.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="IDPWbox2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\IDPWbox.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Launcher" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -418,10 +568,16 @@
   <data name="Launcher1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Launcher.ini;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1254</value>
   </data>
+  <data name="Launcher2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\Launcher.ini;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1254</value>
+  </data>
   <data name="LauncherEnc" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\LauncherEnc.xfs;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="LauncherEnc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\LauncherEnc.xfs;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="LauncherEnc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\LauncherEnc.xfs;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Login" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -430,10 +586,16 @@
   <data name="Login1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Login.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Login2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\Login.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="Loginwindow" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Loginwindow.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Loginwindow1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\Loginwindow.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Loginwindow2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\Loginwindow.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -442,10 +604,16 @@
   <data name="login_cancel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_cancel.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="login_cancel2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_cancel.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="login_frame" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_frame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_frame1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_frame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_frame2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_frame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_lostpassword" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -454,10 +622,16 @@
   <data name="login_lostpassword1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_lostpassword.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="login_lostpassword2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_lostpassword.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="login_ok" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_ok.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_ok1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_ok.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_ok2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_ok.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_progressbase" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -466,10 +640,16 @@
   <data name="login_progressbase1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_progressbase.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="login_progressbase2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_progressbase.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="login_register" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_register.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_register1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_register.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_register2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_register.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_text_id_password" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -478,10 +658,16 @@
   <data name="login_text_id_password1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_text_id_password.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="login_text_id_password2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_text_id_password.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="login_versioncheck" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_versioncheck.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login_versioncheck1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\login_versioncheck.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="login_versioncheck2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\login_versioncheck.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minimize" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -493,7 +679,13 @@
   <data name="minimize11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\minimize1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="minimize12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\minimize1.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="minimize2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\minimize.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\minimize.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minimize_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -502,10 +694,16 @@
   <data name="minimize_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\minimize-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="minimize_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\minimize-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="minimize_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\minimize-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="minimize_over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\minimize-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimize_over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\minimize-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="NyxLauncher_CheckFile" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -514,10 +712,16 @@
   <data name="NyxLauncher_CheckFile1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\NyxLauncher_CheckFile.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="NyxLauncher_CheckFile2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\NyxLauncher_CheckFile.dat;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="recover_file_back" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\recover-file-back.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="recover_file_back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\recover-file-back.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="recover_file_back2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\recover-file-back.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="s1ys0" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -526,10 +730,22 @@
   <data name="s1ys01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\s1ys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="s1ys02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\s1ys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selecgame_option_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selecgame_option_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selecgame_option_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selecgame_option_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_cance" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_cance.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_cance1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_cance.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_cance2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_cance.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_cancel" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -538,10 +754,16 @@
   <data name="selectgame_cancel1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_cancel.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_cancel2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_cancel.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_cancelUS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_cancelUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_cancelUS1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_cancelUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_cancelUS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_cancelUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_comingsoon" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -550,10 +772,16 @@
   <data name="selectgame_comingsoon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_comingsoon.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_comingsoon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_comingsoon.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_file" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_file.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_file1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_file.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_file2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_file.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_frame" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -562,10 +790,16 @@
   <data name="selectgame_frame1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_frame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_frame2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_frame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_frame_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_frame_US.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_frame_US1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_frame_US.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_frame_US2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_frame_US.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_fulldown" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -574,10 +808,16 @@
   <data name="selectgame_fulldown1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_fulldown.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_fulldown2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_fulldown.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_fulldown___Kopya" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_fulldown - Kopya.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_fulldown___Kopya1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_fulldown - Kopya.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_fulldown___Kopya2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_fulldown - Kopya.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_gunboundimg" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -586,10 +826,16 @@
   <data name="selectgame_gunboundimg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_gunboundimg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_gunboundimg2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_gunboundimg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_option" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_option.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_option1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_option.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_option2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_option.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_patchdown" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -598,10 +844,16 @@
   <data name="selectgame_patchdown1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_patchdown.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_patchdown2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_patchdown.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_progressbase" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_progressbase.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_progressbase1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_progressbase.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_progressbase2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_progressbase.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_rakionimg" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -610,16 +862,25 @@
   <data name="selectgame_rakionimg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_rakionimg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_rakionimg2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_rakionimg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_rakionimgc" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_rakionimgc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_rakionimgc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_regist" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_regist.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_regist1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_regist.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_regist2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_regist.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_start" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -634,10 +895,19 @@
   <data name="selectgame_start3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_start.ps;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="selectgame_start4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_start.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_start5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_start.ps;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="selectgame_startUS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_startUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_startUS1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_startUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_startUS2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_startUS.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_versioncheck" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -646,10 +916,16 @@
   <data name="selectgame_versioncheck1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_versioncheck.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_versioncheck2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_versioncheck.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_wolfteam" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_wolfteam.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_wolfteam1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_wolfteam.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_wolfteam2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_wolfteam.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_wolfteamimg" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -658,10 +934,16 @@
   <data name="selectgame_wolfteamimg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_wolfteamimg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="selectgame_wolfteamimg2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_wolfteamimg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="selectgame_wolfteamm" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_wolfteamm.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="selectgame_wolfteamm1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\selectgame_wolfteamm.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selectgame_wolfteamm2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\selectgame_wolfteamm.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="settings_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -670,10 +952,16 @@
   <data name="settings_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\settings-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="settings_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\settings-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="settings_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\settings-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="settings_over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\settings-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="settings_over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\settings-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sifremi_unuttum" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -682,10 +970,16 @@
   <data name="sifremi_unuttum1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\sifremi_unuttum.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sifremi_unuttum2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sifremi_unuttum.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="sifremi_unuttum_mouse_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\sifremi_unuttum_mouse_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sifremi_unuttum_mouse_hover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sifremi_unuttum_mouse_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sifremi_unuttum_mouse_hover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\sifremi_unuttum_mouse_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="softnyx" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -700,10 +994,25 @@
   <data name="softnyx21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\softnyx2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="softnyx22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\softnyx2.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="softnyx3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\softnyx.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sselectgame_rakionimgc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sselectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sselectgame_rakionimgc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sselectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="start" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\start.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="start1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\start.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="start2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\start.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="startbutton_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -712,10 +1021,16 @@
   <data name="startbutton_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\startbutton-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="startbutton_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\startbutton-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="startbutton_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\startbutton-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="startbutton_over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\startbutton-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="startbutton_over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\startbutton-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="startbutton_update" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -724,11 +1039,26 @@
   <data name="startbutton_update1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\startbutton-update.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="startbutton_update2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\startbutton-update.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="StartGame" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\StartGame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="StartGame1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\StartGame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StartGame2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\StartGame.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="start_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\start_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="start_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\start_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="start_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\start_normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="support_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\support-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -736,10 +1066,16 @@
   <data name="support_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\support-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="support_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\support-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="support_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\support-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="support_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\support-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="support_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\support-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sys" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -751,7 +1087,13 @@
   <data name="sys01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sys02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="sys1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sys.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sys2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\sys.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="sys_click" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -760,10 +1102,16 @@
   <data name="sys_click1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\sys_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sys_click2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\sys_click.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="top_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\top-left.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="top_left1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\top-left.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="top_left2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\top-left.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="top_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -772,10 +1120,16 @@
   <data name="top_right1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\top-right.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="top_right2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\top-right.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="torrent_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\torrent-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="torrent_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\torrent-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="torrent_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\torrent-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="torrent_over" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -784,10 +1138,16 @@
   <data name="torrent_over1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\torrent-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="torrent_over2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\torrent-over.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="twitter_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\twitter-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="twitter_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\twitter-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="twitter_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\twitter-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="twitter_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -796,10 +1156,16 @@
   <data name="twitter_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\twitter-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="twitter_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\twitter-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ucretsiz_uye_ol" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\ucretsiz_uye_ol.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ucretsiz_uye_ol1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\ucretsiz_uye_ol.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ucretsiz_uye_ol2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\ucretsiz_uye_ol.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ucretsiz_uye_ol_mouse_hover" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -808,10 +1174,16 @@
   <data name="ucretsiz_uye_ol_mouse_hover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\ucretsiz_uye_ol_mouse_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ucretsiz_uye_ol_mouse_hover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\ucretsiz_uye_ol_mouse_hover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="username" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\username.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="username1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\username.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="username2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\username.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="youtube_mouseover" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -820,10 +1192,16 @@
   <data name="youtube_mouseover1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\youtube-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="youtube_mouseover2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\youtube-mouseover.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="youtube_normal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\youtube-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="youtube_normal1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\youtube-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="youtube_normal2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\youtube-normal.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_1234sys0" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -832,10 +1210,16 @@
   <data name="_1234sys01" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\1234sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_1234sys02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\1234sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_123sys0" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\123sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_123sys01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\123sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_123sys02" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\123sys0.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_12bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
@@ -850,19 +1234,22 @@
   <data name="_12bg3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\12bg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="_12bg4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\12bg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_12bg5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\12bg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="_1bg" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\1bg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_1bg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\bin\Debug\Img\1bg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_1selectgame_rakionimgc" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\Img\1selectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="_1bg2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\Debug\Img\1bg.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="_1selectgame_rakionimgc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\bin\Debug\Img\1selectgame_rakionimgc.bmp;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_Downloader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="_Downloader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>"..\bin\Debug\Img\;Downloader.bmp";System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

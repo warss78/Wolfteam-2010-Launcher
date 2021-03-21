@@ -1,7 +1,7 @@
 ﻿
 namespace Wolfteam_Launcher
 {
-    partial class Patch
+    partial class Form2
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace Wolfteam_Launcher
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Patch));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.pw = new System.Windows.Forms.TextBox();
@@ -37,18 +37,22 @@ namespace Wolfteam_Launcher
             this.progressBar2 = new System.Windows.Forms.ProgressBar();
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.log = new System.Windows.Forms.TextBox();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.minimize = new System.Windows.Forms.PictureBox();
+            this.close = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
-            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.minimize)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
+            this.panel1.Controls.Add(this.minimize);
             this.panel1.Controls.Add(this.panel4);
+            this.panel1.Controls.Add(this.close);
             this.panel1.Controls.Add(this.progressBar2);
             this.panel1.Controls.Add(this.progressBar1);
             this.panel1.Controls.Add(this.panel3);
@@ -120,20 +124,10 @@ namespace Wolfteam_Launcher
             // panel3
             // 
             this.panel3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel3.BackgroundImage")));
-            this.panel3.Controls.Add(this.button1);
             this.panel3.Location = new System.Drawing.Point(34, 186);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(735, 319);
             this.panel3.TabIndex = 2;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(333, 181);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(78, 72);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // log
             // 
@@ -154,20 +148,41 @@ namespace Wolfteam_Launcher
             this.panel2.Size = new System.Drawing.Size(733, 319);
             this.panel2.TabIndex = 0;
             // 
-            // Patch
+            // minimize
+            // 
+            this.minimize.BackgroundImage = global::Wolfteam_Launcher.Properties.Resources._123sys0;
+            this.minimize.Location = new System.Drawing.Point(748, 6);
+            this.minimize.Name = "minimize";
+            this.minimize.Size = new System.Drawing.Size(19, 19);
+            this.minimize.TabIndex = 6;
+            this.minimize.TabStop = false;
+            // 
+            // close
+            // 
+            this.close.BackgroundImage = global::Wolfteam_Launcher.Properties.Resources.s1ys01;
+            this.close.Location = new System.Drawing.Point(770, 6);
+            this.close.Name = "close";
+            this.close.Size = new System.Drawing.Size(19, 19);
+            this.close.TabIndex = 5;
+            this.close.TabStop = false;
+            this.close.Click += new System.EventHandler(this.close_Click);
+            // 
+            // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 600);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Patch";
+            this.Name = "Form2";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Patch";
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            this.panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.minimize)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -181,8 +196,9 @@ namespace Wolfteam_Launcher
         private System.Windows.Forms.ProgressBar progressBar2;
         private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox log;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.PictureBox minimize;
+        private System.Windows.Forms.PictureBox close;
     }
 }
