@@ -101,5 +101,10 @@ namespace Wolfteam_Launcher
         {
             drag = false;
         }
+
+        private void panel4_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
     }

@@ -166,8 +166,8 @@ namespace Wolfteam_Launcher
         private void timer2_Tick(object sender, EventArgs e)
         {
 
-            game_wolfteam.Visible = false;
-            Game_Rakion.Visible = false;
+            game_wolfteam.Enabled = false;
+            Game_Rakion.Enabled = false;
             log.Text = "Başlatılıyor Launcher Yaması";
 
             progressBar1.Increment(1);
@@ -201,8 +201,8 @@ namespace Wolfteam_Launcher
 
                 log.Text = "Yama Bitti ";
 
-                game_wolfteam.Visible = true;
-                Game_Rakion.Visible = true;
+                game_wolfteam.Enabled = true;
+                Game_Rakion.Enabled = true;
                 progressBar1.Visible = false;
                 progressBar2.Visible = false;
                 //Messagebox ile uyarı veriyoruz.

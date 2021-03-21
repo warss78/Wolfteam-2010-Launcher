@@ -48,14 +48,15 @@ namespace Wolfteam_Launcher
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.minimize)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.close)).BeginInit();
-            this.panel4.SuspendLayout();
             this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel1.BackgroundImage")));
+            this.panel1.Controls.Add(this.pw);
             this.panel1.Controls.Add(this.panel7);
+            this.panel1.Controls.Add(this.id);
             this.panel1.Controls.Add(this.panel6);
             this.panel1.Controls.Add(this.minimize);
             this.panel1.Controls.Add(this.panel5);
@@ -146,13 +147,12 @@ namespace Wolfteam_Launcher
             // panel4
             // 
             this.panel4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("panel4.BackgroundImage")));
-            this.panel4.Controls.Add(this.pw);
-            this.panel4.Controls.Add(this.id);
-            this.panel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.panel4.Font = new System.Drawing.Font("Microsoft Tai Le", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel4.Location = new System.Drawing.Point(410, 519);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(176, 43);
             this.panel4.TabIndex = 8;
+            this.panel4.Paint += new System.Windows.Forms.PaintEventHandler(this.panel4_Paint);
             // 
             // pw
             // 
@@ -160,27 +160,29 @@ namespace Wolfteam_Launcher
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pw.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.pw.Font = new System.Drawing.Font("Calibri", 12F);
-            this.pw.Location = new System.Drawing.Point(66, 26);
+            this.pw.Font = new System.Drawing.Font("Arial", 9.75F);
+            this.pw.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.pw.Location = new System.Drawing.Point(475, 546);
             this.pw.Margin = new System.Windows.Forms.Padding(300000000);
             this.pw.Multiline = true;
             this.pw.Name = "pw";
             this.pw.PasswordChar = '*';
-            this.pw.Size = new System.Drawing.Size(109, 16);
+            this.pw.Size = new System.Drawing.Size(109, 13);
             this.pw.TabIndex = 8;
             // 
             // id
             // 
             this.id.BackColor = System.Drawing.SystemColors.Window;
             this.id.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.id.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.id.Location = new System.Drawing.Point(67, 1);
+            this.id.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.id.Location = new System.Drawing.Point(475, 521);
             this.id.Margin = new System.Windows.Forms.Padding(2000000);
             this.id.MaxLength = 12;
             this.id.Multiline = true;
             this.id.Name = "id";
             this.id.Size = new System.Drawing.Size(109, 13);
             this.id.TabIndex = 7;
+            this.id.Text = "warss78";
             // 
             // panel3
             // 
@@ -202,7 +204,8 @@ namespace Wolfteam_Launcher
             // 
             // log
             // 
-            this.log.Font = new System.Drawing.Font("Calibri", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.log.BackColor = System.Drawing.Color.White;
+            this.log.Font = new System.Drawing.Font("Arial", 9.75F);
             this.log.Location = new System.Drawing.Point(35, 515);
             this.log.Multiline = true;
             this.log.Name = "log";
@@ -232,8 +235,6 @@ namespace Wolfteam_Launcher
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.minimize)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.close)).EndInit();
-            this.panel4.ResumeLayout(false);
-            this.panel4.PerformLayout();
             this.panel3.ResumeLayout(false);
             this.ResumeLayout(false);
 
