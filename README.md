@@ -7,9 +7,24 @@ EN:this repository is to rewrite the old launcher of wolfteam
 
 TO DO LİST
 
-Launcher Template 🟩
-Launcher Connect SQL 🟥
-Launcher Start Wolfteam But NO sql connect no connect server 
+<p>Launcher Template 🟩</p>
+<p>Launcher Connect SQL 🟥</p>
+Launcher Start Wolfteam But NO sql connect no connect server
+
+
+Yapılacak Listesi
+
+<p>Launcher Tasarımı 🟩</p>
+<p>Launcher VeriTabanına Bağlanmıyor 🟥</p>
+Launcher Oyunu Veritabanı Olmadan Baslatiyor.
+
+Örnek: k-adınız = test şifre = test 
+
+Launcher Oyuna  test 12313131 şeklinde direk oyunu atıyor
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/42153313/124397372-1d921a80-dd18-11eb-8d29-e379e0e19e05.png)
 
